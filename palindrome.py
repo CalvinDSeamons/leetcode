@@ -20,3 +20,5 @@ def better_is_palindrome(string):
         right -=1
     # If you make it through you have a palindrome.
     print("True")
+
+better_is_palindrome("ohohohohohohohohohohoho")
